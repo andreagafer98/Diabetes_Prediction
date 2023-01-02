@@ -6,6 +6,14 @@ Objectives:
 - Find what features have the biggest impact on outcome. 
 - Test different classification algorithms to find the highest accuracy.
 
+Process:
+- Documentation on the topic.
+- Data gathering.
+- Data cleaning.
+- Exploratory data analysis.
+- Model Building.
+- Conclusion from model building.
+
 Key Findings:
 - The features that have the biggest impact on diabetes are glucose, age, BMI, and the amount of pregancies.
 - The classification algorithm with the highest accuracy was found to be Random Forest(76%).
